@@ -23,7 +23,7 @@ PROJECT_ROOT="/home/u12321044/share/liang_52/align_tax"
 cd "$PROJECT_ROOT"
 
 # 设置 OPENAI_API_KEY
-export OPENAI_API_KEY="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"
+export OPENAI_API_KEY="***
 
 # 解析参数
 USE_SMALL_TEST=""          # 是否使用小测试集
